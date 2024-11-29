@@ -9,6 +9,10 @@ Features
 * Dynamic Flag Display: Shows country flags corresponding to selected currencies for better visualization.
 * Error Handling: Displays helpful error messages for invalid inputs or API fetch issues.
 
+# how the website looks like..
+  ![image](https://github.com/user-attachments/assets/c423892c-b928-4efc-b55c-abeccbd7e487)
+
+
 # How to Run the Program
 Prerequisites
  1. Node.js: Ensure you have Node.js installed. Download Node.js.
