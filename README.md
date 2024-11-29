@@ -24,3 +24,8 @@ Installation Steps
   6. bun run dev/bun dev
   7. Access the App: Open your browser and navigate to: (http://localhost:3000)
 
+# Technologies Used
+ * React.js: Framework for building the UI.
+ * CSS: For styling the components.
+ * Open Exchange Rates API: Provides real-time exchange rates.
+
