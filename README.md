@@ -19,7 +19,7 @@ Prerequisites
  2. Code Editor: Use a code editor like VS Code.
 
 Installation Steps
-  1. Clone the Repository: (git clone https://github.com/your-username/currency-converter.git)
+  1. Clone the Repository: (git clone https://github.com/Poojanpatel2003/currency-converter.git)
      
   2. cd currency-converter
   3. Install Dependencies: Install all required packages.
